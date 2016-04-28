@@ -1,0 +1,11 @@
+ 
+Compiling and linking the model (Visual C++). 
+ 
+Setting environment for using Microsoft Visual Studio 2010 x86 tools.
+dsmodel.c
+dsmodel.c(413) : warning C4133: 'function' : incompatible types - from 'DymStruc0 *' to 'ExternalThermodynamicState *'
+dsmodel.c(457) : warning C4133: 'function' : incompatible types - from 'DymStruc0 *' to 'ExternalThermodynamicState *'
+   Creating library dymosim.lib and object dymosim.exp
+ 
+Successful generation of Dymosim. 
+ 
